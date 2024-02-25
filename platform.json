@@ -84,8 +84,8 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~3.50102.0",
+      "owner": "poupounetjoyeux",
+      "version": "https://github.com/poupounetjoyeux/esp-idf/releases/download/v5.2/esp-idf-v5.2.zip",
       "optionalVersions": ["~3.40406.0"]
     },
     "tool-esptoolpy": {
